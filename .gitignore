@@ -1,0 +1,13 @@
+# 编译输出文件夹
+build/
+
+# 编译产生的中间文件
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+# force reload
+Drivers/
